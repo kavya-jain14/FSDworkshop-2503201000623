@@ -1,0 +1,92 @@
+[
+  {
+    "id": "S1001",
+    "first_name": "Aarav",
+    "last_name": "Sharma",
+    "age": 20,
+    "major": "Computer Science",
+    "gpa": 8.8,
+    "email": "aarav.s@example.com"
+  },
+  {
+    "id": "S1002",
+    "first_name": "Priya",
+    "last_name": "Patel",
+    "age": 19,
+    "major": "Biology",
+    "gpa": 8.6,
+    "email": "priya.p@example.com"
+  },
+  {
+    "id": "S1003",
+    "first_name": "James",
+    "last_name": "Wilson",
+    "age": 21,
+    "major": "Mechanical Engineering",
+    "gpa": 8.4,
+    "email": "j.wilson@example.com"
+  },
+  {
+    "id": "S1004",
+    "first_name": "Sophia",
+    "last_name": "Martinez",
+    "age": 20,
+    "major": "Psychology",
+    "gpa": 8.9,
+    "email": "smartinez@example.com"
+  },
+  {
+    "id": "S1005",
+    "first_name": "David",
+    "last_name": "Kim",
+    "age": 22,
+    "major": "Business Administration",
+    "gpa": 8.5,
+    "email": "david.kim@example.com"
+  },
+  {
+    "id": "S1006",
+    "first_name": "Emma",
+    "last_name": "Johansson",
+    "age": 19,
+    "major": "English Literature",
+    "gpa": 8.7,
+    "email": "emma.j@example.com"
+  },
+  {
+    "id": "S1007",
+    "first_name": "Liam",
+    "last_name": "O'Connor",
+    "age": 21,
+    "major": "Physics",
+    "gpa": 8.2,
+    "email": "loconnor@example.com"
+  },
+  {
+    "id": "S1008",
+    "first_name": "Zoe",
+    "last_name": "Chen",
+    "age": 20,
+    "major": "Graphic Design",
+    "gpa": 8.9,
+    "email": "zoe.chen@example.com"
+  },
+  {
+    "id": "S1009",
+    "first_name": "Omar",
+    "last_name": "Hassan",
+    "age": 23,
+    "major": "Civil Engineering",
+    "gpa": 8.3,
+    "email": "ohassan@example.com"
+  },
+  {
+    "id": "S1010",
+    "first_name": "Isabella",
+    "last_name": "Rossi",
+    "age": 19,
+    "major": "Nursing",
+    "gpa": 8.8,
+    "email": "i.rossi@example.com"
+  }
+]
