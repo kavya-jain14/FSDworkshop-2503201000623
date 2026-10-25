@@ -92,6 +92,7 @@ app.use((error, req, res, next) => {
   if (res.headersSent) return next(error);
   if (error.type === "entity.parse.failed") return res.status(400).json({message: "Send valid JSON"});
   if (error.type === "entity.too.large") return res.status(413).json({message: "Request body is too large"});
+  if (error.type === "charset.unsupported" || error.type === "encoding.unsupported") return res.status(415).json({message: "Unsupported request encoding"});
   res.status(500).json({message: "Unable to process the request"});
 });
 
